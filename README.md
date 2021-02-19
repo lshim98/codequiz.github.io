@@ -1,5 +1,3 @@
-# codequiz.github.io
-
 # Web-APIs-Code-Quiz
 Code Quiz
 
