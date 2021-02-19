@@ -2,18 +2,22 @@
 
 #answerOne{
     background-color: #0044ff;
+    margin: 5px
 }
 
 #answerTwo{
     background-color: #0044ff;
+    margin: 5px
 }
 
 #answerThree{
     background-color: #0044ff;
+    margin: 5px
 }
 
 #answerFour{
     background-color: #0044ff;
+    margin: 5px
 }
 
 #startButton{
@@ -22,6 +26,10 @@
 }
 
 #buttonDiv{
+    text-align: center;
+}
+
+.large-12.columns {
     text-align: center;
 }
 
@@ -63,3 +71,5 @@
 td {
     padding: 5px;
 }
+
+/*.large-12.columns applies to the div which has the both classes*\
