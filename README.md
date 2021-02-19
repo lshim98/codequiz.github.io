@@ -32,6 +32,12 @@ Screenshot:
 
 ![Capture](https://user-images.githubusercontent.com/76062539/108558900-96905880-72c8-11eb-8d03-5554eba49981.JPG)
 
+![Captured (1)](https://user-images.githubusercontent.com/76062539/108570025-fa238180-72da-11eb-95a9-261b025fdbe8.JPG)
+
+![Captured (2)](https://user-images.githubusercontent.com/76062539/108570035-fc85db80-72da-11eb-9013-43d8a0b6a0af.JPG)
+
+
+
 
 ### Review
 
