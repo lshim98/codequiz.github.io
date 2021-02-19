@@ -28,7 +28,7 @@ THEN I can save my initials and score
 ```
 
 Screenshot:
-
+![Captured](https://user-images.githubusercontent.com/76062539/108558786-72347c00-72c8-11eb-89a7-d87e56bb69c8.JPG)
 
 
 ### Review
