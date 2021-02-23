@@ -1,5 +1,3 @@
-<href="{{https://github.com/lshim98/codequiz.github.io}}>
-
 var highScoreList = document.querySelector("#highScores");
 var backButton = document.querySelector("#go-back");
 var clearScores = document.querySelector("#clear-high-scores");
