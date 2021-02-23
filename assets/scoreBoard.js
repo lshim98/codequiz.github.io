@@ -47,8 +47,8 @@ function renderScores() {
 
 clearScores.addEventListener("click", function () {
     clearAll();
-    window.location.href = "lshim98.github.io/codequiz.github.io/highScores.html";
+    window.location.href = "https://github.com/lshim98.github.io/codequiz.github.io/highScores.html";
 })
 backButton.addEventListener("click", function () {
-    window.location.href = "lshim98.github.io/codequiz.github.io/index.html";
+    window.location.href = "https://github.com/lshim98.github.io/codequiz.github.io/index.html";
 })
