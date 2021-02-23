@@ -53,7 +53,7 @@ function questionEnder() {
         highScoreText.name = inputTag.value.trim();
         highScoreText.newScore = score;
         storeScores(highScoreText);
-        window.location.href = "codequiz.github.io/highScores.html";
+        window.location.href = "https://github.com/lshim98/codequiz.github.io/highScores.html";
     });
 }
 function questionSetter() {
